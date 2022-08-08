@@ -3,7 +3,11 @@
 
 #include <stdarg.h>
 /**
+<<<<<<< HEAD
  * struct print - structure for printing variables
+=======
+ * struct print - structure for printing various types
+>>>>>>> e888b3e7fd49e4b60057fcfb07801a4c826bb08d
  * @t: type to print
  * @f: function to print
  */
